@@ -12,7 +12,7 @@
 		<!--数据库连接的信息：驱动类、连接地址、用户名、密码 -->
 		<jdbcConnection driverClass="com.mysql.jdbc.Driver"
 			connectionURL="jdbc:mysql://118.178.131.1:3306/bbyiya" userId="root"
-			password="bbyiya.net@20170111">
+			password="bbyiya.net@20170111"> 
 		</jdbcConnection>
 		<!-- <jdbcConnection driverClass="oracle.jdbc.OracleDriver" connectionURL="jdbc:oracle:thin:@127.0.0.1:1521:yycg" 
 			userId="yycg" password="yycg"> </jdbcConnection> -->
